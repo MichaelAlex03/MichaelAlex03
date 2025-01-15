@@ -6,9 +6,9 @@
 
 ### 🌌 About Me
 
-Hello! My name is Gabriel Ken Kazama Geronazzo, and I am a software engineer passionate about challenges and driven by a proactive mindset. I firmly believe that the best way to learn is by teaching, which led me to document my learning journey on my [GitHub](https://github.com/ImGabreuw/notes). This experience not only accelerated my growth but also allowed me to build valuable connections with other developers, creating a network of knowledge and mutual support.
+Hello! My name is Michael Lleverino, and I am an aspiring software engineer passionate about challenges and driven by a proactive mindset. Currently, I’m diving into React Native and developing a workout tracking app designed to make it simple for users to track and manage their fitness routines.
 
-My goal for 2023 is to further enhance my knowledge in Machine Learning and explore cloud computing services to create efficient and innovative solutions in the financial market, contributing to the growth of companies and positively impacting people's lives.
+In 2025, my goal is to deepen my expertise in frontend and backend development and delve deeper into cloud computing services like AWS. I am committed to creating innovative and efficient solutions that drive company growth and make a meaningful impact on people’s lives.
 
 ### 🛠️ Technologies and Tools
 
