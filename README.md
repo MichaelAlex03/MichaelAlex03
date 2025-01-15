@@ -29,8 +29,8 @@ Feel free to get in touch with me to discuss projects, exchange ideas, and explo
   <a href="https://github.com/MichaelAlex03" style="padding-inline: 16px;">
     <img src="https://img.shields.io/badge/GitHub-MichaelAlex03-121011?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
-  <a href="https://www.linkedin.com/in/gabriel-geronazzo-981382203/">
-    <img src="https://img.shields.io/badge/LinkedIn-Gabriel%20Geronazzo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  <a href="https://www.linkedin.com/in/michaelllev">
+    <img src="https://img.shields.io/badge/LinkedIn-Michael%20Lleverino-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
 
