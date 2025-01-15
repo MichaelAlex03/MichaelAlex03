@@ -37,6 +37,3 @@ Feel free to get in touch with me to discuss projects, exchange ideas, and explo
   </a>
 </p>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ImGabreuw&color=blue&style=flat" alt="Visitors Count">
-</div>
