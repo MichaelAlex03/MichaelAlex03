@@ -26,11 +26,8 @@ In 2025, my goal is to deepen my expertise in frontend and backend development a
 Feel free to get in touch with me to discuss projects, exchange ideas, and explore new collaboration opportunities.
 
 <p align="center">
-  <a href="https://discordapp.com/users/Gabreuw__#9336">
-    <img src="https://img.shields.io/badge/Discord-Michael_____%239336-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
-  </a>
-  <a href="https://github.com/ImGabreuw" style="padding-inline: 16px;">
-    <img src="https://img.shields.io/badge/GitHub-ImGabreuw-121011?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <a href="https://github.com/MichaelAlex03" style="padding-inline: 16px;">
+    <img src="https://img.shields.io/badge/GitHub-MichaelAlex03-121011?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
   <a href="https://www.linkedin.com/in/gabriel-geronazzo-981382203/">
     <img src="https://img.shields.io/badge/LinkedIn-Gabriel%20Geronazzo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
