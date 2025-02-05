@@ -20,7 +20,7 @@ In 2025, my goal is to deepen my expertise in frontend and backend development a
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)
-![AWS](https://img.shields.io/badge/aws%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)
+![AWS](https://img.shields.io/badge/aws%20-%23121011.svg?&style=for-the-badge&logo=aws&logoColor=white)
 
 ### 🤝 Let's Connect!
 
